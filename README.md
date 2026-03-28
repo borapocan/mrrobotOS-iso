@@ -49,10 +49,10 @@ KDE and GNOME are platforms. MrRobotOS is a machine.
 
 | | MrRobotOS | GNOME | KDE Plasma |
 |---|---|---|---|
-| Idle RAM | ~180 MB | ~800 MB | ~600 MB |
+| Idle RAM | ~180 MB | ~1.0–1.5 GB | ~1.5–2.8 GB |
 | ISO size | ~1.6 GB | ~2.5 GB | ~2.8 GB |
-| Installed disk (minimal) | ~3–4 GB | ~4.2 GB | ~1.5–2 GB |
-| Installed disk (full) | ~3–4 GB | ~4.2+ GB | ~6–9 GB |
+| Installed disk (minimal) | ~2–3 GB | ~4.2 GB | ~5–7 GB |
+| Installed disk (full) | ~3–4 GB | ~4.2+ GB | ~10–20 GB |
 | Display manager | mrlogin (custom C) | GDM | SDDM |
 | Window manager | mrdwm (custom C) | Mutter + JS shell | KWin (Qt/C++) |
 | Status bar | mrblocks (custom C) | GNOME Shell | Plasmashell |

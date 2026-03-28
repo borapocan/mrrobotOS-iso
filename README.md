@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="we_are_fsociety.png" width="180" alt="fsociety" />
+  <img width="250" height="250" alt="we_are_fsociety" src="https://github.com/user-attachments/assets/48e430df-da6b-4cc8-9e1e-685c0213be77" />
 </p>
 
 <h1 align="center">MrRobotOS</h1>
@@ -24,20 +24,12 @@ This is not a rice. This is not a dotfiles collection. This is an operating syst
 
 ---
 
-## Infrastructure
-
-MrRobotOS is not just a desktop. It runs against a real self-hosted data center backend with elastic storage and compute. When demand grows, the infrastructure expands — n+1 scaling, not hard limits.
-
-- **Unlimited storage** — backed by a self-hosted data center with capacity that scales horizontally on demand
-- **Elastic compute** — resources expand as workloads require, no fixed ceiling
-- **Home to rack** — the same OS that runs on your desk connects to the same infrastructure that runs your cloud
-
 ## Roadmap
 
 ### Coming Soon — Cloud & Storage Integration
 
-- **Cloud integration** — manage VMs, containers, and remote services directly from the MrRobotOS desktop
-- **Storage replication** — built-in replication across local and remote targets, designed for Proxmox and TrueNAS backends
+- **Cloud integration** — manage VMs, containers, remote services and databases directly from the MrRobotOS desktop
+- **Storage replication** — built-in replication across local and remote targets, designed for Proxmox and VMware backends
 - **Distributed storage** — redundancy and high availability across nodes
 - **Backup and snapshot management** — scheduled snapshots and offsite backup from the desktop environment
 
@@ -396,8 +388,6 @@ MrRobotOS ships with a custom Calamares-based graphical installer for installati
 ## Philosophy
 
 MrRobotOS exists at the intersection of two truths: that a computer is a machine, and that machines can be owned completely. Every line in this repository was written with the understanding that abstraction is a choice — and that choosing to go deeper is always available to those willing to read the source.
-
-KDE gives you settings dialogs. MrRobotOS gives you `colors.h`. GNOME gives you extensions. MrRobotOS gives you `dwm.c`.
 
 The aesthetic is intentional. The Mr. Robot theme is not decoration. It is a reminder that the systems we interact with every day are not fixed — they are written by people, and they can be rewritten.
 

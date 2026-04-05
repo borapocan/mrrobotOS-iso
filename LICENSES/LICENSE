@@ -1,0 +1,40 @@
+MrRobotOS
+Copyright (C) 2026 Merih Bora Poçan (MrRobotOS)
+
+════════════════════════════════════════════════════════════
+
+MrRobotOS is built on top of the Linux kernel and contains
+components that carry their own license obligations. This
+file exists to be transparent about what belongs to whom.
+
+────────────────────────────────────────────────────────────
+LINUX KERNEL & KERNEL MODULES                    [ GPL-2.0 ]
+────────────────────────────────────────────────────────────
+
+The Linux kernel is licensed under GPL-2.0. MrRobotOS ships
+a hardened and patched kernel build but does not claim
+authorship over the kernel itself. The kernel source, its
+authors, and its license are its own.
+
+See: LICENSES/GPL-2.0
+
+────────────────────────────────────────────────────────────
+MRROBOTOS ORIGINAL WORK                          [ GPL-3.0 ]
+────────────────────────────────────────────────────────────
+
+Every other component in this repository — the window
+manager, the terminal, the status bar, the login manager,
+the settings application, the process manager, the quick
+settings panel, the calendar, the calculator, the power
+menu, the application launcher, the panel scripts, the
+system services, the init scripts, the autostart
+configuration, and the ISO build system — was written from
+scratch as part of MrRobotOS.
+
+This work is licensed under GPL-3.0. You are free to use,
+study, modify, and distribute it — but any distribution
+must carry the same freedom forward.
+
+See: LICENSES/GPL-3.0
+
+════════════════════════════════════════════════════════════

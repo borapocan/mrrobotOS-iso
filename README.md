@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Base-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-mrdwm-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Written%20in-C%20%7C%20GTK4%20%7C%20Shell-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-GPL--3.0-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kernel-GPL--2.0-darkred?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -405,3 +406,16 @@ This is one person's complete vision of what a desktop operating system should b
 <p align="center">
   <em>"Hello, friend."</em>
 </p>
+
+---
+
+## License
+
+Copyright (C) 2026 Merih Bora Poçan
+
+MrRobotOS original work is licensed under the
+[GNU General Public License v3.0](LICENSES/GPL-3.0).
+The Linux kernel and kernel modules are licensed under
+[GPL-2.0](LICENSES/GPL-2.0).
+
+See [LICENSE](LICENSE) for full details.
